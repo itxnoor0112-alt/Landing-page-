@@ -16,8 +16,8 @@ This project provides a professional, modern landing page for "NexTech" smart wa
 
 ## Project Structure
 The project consists of two main files:
-1. **index.html** - This contains the main landing page source code.
-2. **README.md** - This document provides the project overview and setup instructions.
+1. **index.html**  This contains the main landing page source code.
+2. **README.md**  This document provides the project overview and setup instructions.
 
 ## How to Use
 1. Clone or download the repository.
