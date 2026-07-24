@@ -6,7 +6,7 @@ scroll-behavior:smooth;
 
 body{
 font-family:'Segoe UI',Arial,sans-serif;
-background:#f4f6fb;
+background:#c9caca;
 color:#333;
 line-height:1.6;
 transition:.3s;
@@ -60,7 +60,6 @@ padding-bottom:4px;
 
 .theme-btn{
 padding:8px 14px;
-background:#2563eb;
 color:#fff;
 border:none;
 border-radius:8px;
@@ -97,7 +96,7 @@ margin-bottom:20px;
 
 .hero-content p{
 font-size:18px;
-color:#555;
+color:#696969;
 margin-bottom:20px;
 }
 
@@ -229,21 +228,21 @@ margin-top:20px;
 footer{
 text-align:center;
 padding:30px;
-background:#111827;
+background:#27334b;
 color:#fff;
 font-size:16px;
 letter-spacing:1px;
 }
 
 .dark-mode{
-background:#121212;
+background:#211525;
 color:#fff;
 }
 
 .dark-mode header,
 .dark-mode .card,
 .dark-mode form{
-background:#1f1f1f;
+background:#1e2439;
 color:#fff;
 }
 
@@ -258,13 +257,13 @@ border-bottom:2px solid #60a5fa;
 
 .dark-mode input,
 .dark-mode textarea{
-background:#2c2c2c;
+background:#161420;
 color:#fff;
 border:1px solid #555;
 }
 
 .dark-mode footer{
-background:#000;
+background:#1e2034;
 }
 
 @keyframes fadeUp{
