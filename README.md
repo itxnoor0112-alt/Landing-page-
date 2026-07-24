@@ -68,14 +68,22 @@ NexTech/
 
 ## Git Commands Used
 git init
+
 git add .
+
 git commit -m "Initial project setup"
+
 git branch -M main
+
 git remote add origin REPOSITORY_URL
+
 git push -u origin main
 
 # For future updates
 git status
+
 git add .
+
 git commit -m "Update project files"
+
 git push
