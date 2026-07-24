@@ -39,15 +39,18 @@ NexTech Smart Watch Landing Page is a responsive front-end web project developed
 ## Project Structure
 
 text
-
 NexTech/
-
-│
+│ 
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 └── README.md
 
 
@@ -65,6 +68,9 @@ NexTech/
 ## Git Commands Used
 
 bash
+
 git init
+
 git add .
+
 git commit -m "Initial project setup"
