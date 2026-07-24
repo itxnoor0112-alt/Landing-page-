@@ -67,31 +67,16 @@ NexTech/
 ---
 
 ## Git Commands Used
-<<<<<<< HEAD
-=======
 
->>>>>>> 5323179 (Update css/style.css file)
 1. git init
 2. git add .
-<<<<<<< HEAD
 3. git commit -m "Initial project setup"
 4. git branch -M main
 5. git remote add origin REPOSITORY_URL
-6. =======
-git commit -m "Initial project setup"
-git branch -M main
-git remote add origin REPOSITORY_URL
->>>>>>> 5323179 (Update css/style.css file)
-git push -u origin main
+6. git push -u origin main
 
 # For future updates
 1. git status
-<<<<<<< HEAD
 2. git add .
 3. git commit -m "Update project files"
 4. git push
-=======
-git add .
-git commit -m "Update project files"
-git push
->>>>>>> 5323179 (Update css/style.css file)
