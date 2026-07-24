@@ -39,7 +39,9 @@ NexTech Smart Watch Landing Page is a responsive front-end web project developed
 ## Project Structure
 
 text
+
 NexTech/
+
 │
 ├── index.html
 ├── css/
